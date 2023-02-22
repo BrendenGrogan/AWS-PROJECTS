@@ -1,6 +1,5 @@
 # AWS-SERVERLESS-WEB-APPLICATION
-
--- INSERT DESCRIPTION HERE --
+In this tutorial, you'll create a simple serverless web application that enables users to request unicorn rides from the Wild Rydes fleet. The application will present users with an HTML based user interface for indicating the location where they would like to be picked up and will interface on the backend with a RESTful web service to submit the request and dispatch a nearby unicorn. The application will also provide facilities for users to register with the service and log in before requesting rides.
 
 ## Services used in this project:
 AWS Lambda, Amazon API Gateway, AWS Amplify, Amazon DynamoDB, and Amazon Cognito
